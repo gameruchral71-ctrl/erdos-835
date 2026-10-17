@@ -74,3 +74,9 @@ The next open case is k = 16 (p = 17). This method would need the nonexistence o
 - P. R. J. Östergård and O. Pottonen, There exists no Steiner system S(4,5,17), *J. Combin. Theory Ser. A* 115(8) (2008), doi:10.1016/j.jcta.2008.04.005. [preprint](http://pottonen.kapsi.fi/nonexistence.pdf)
 - J. Ma and Q. Tang, A note on Erdős Problem #835. [pdf](https://github.com/QuanyuTang/erdos-problem-835/blob/main/On_Problem_835.pdf)
 - T. F. Bloom, Erdős Problem #835, https://www.erdosproblems.com/835
+
+---
+
+## Also in this repository: Erdős Problem #114 in degree 3
+
+[`erdos-114/`](erdos-114/) contains a computer-assisted proof that **z³ − 1 maximises the length of the lemniscate |p(z)| = 1 among monic cubics**. This is the n = 3 case of the Erdős–Herzog–Piranian conjecture (Problem #114). The case was open: Eremenko–Hayman did n = 2 and Tao did all sufficiently large n. The proof is not yet peer-reviewed, and the full problem stays open. Project initiated and directed by Uchral Nyam-Osor; mathematics and code by Claude (Anthropic).
