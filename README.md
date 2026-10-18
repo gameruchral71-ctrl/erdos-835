@@ -1,6 +1,8 @@
 # Two open cases of Erdős Problem #835 settled (k = 10 and k = 12)
 
-**In one line:** Erdős asked whether the k-element subsets of 2k objects can ever be coloured with k+1 colours in a special way. The two smallest cases nobody had answered, k = 10 and k = 12, are answered here: **no**.
+> **Correction (18 Oct 2026): this result was not new.** Earlier we could not reach the erdosproblems.com forum, and we missed a comment in the [#835 thread](https://www.erdosproblems.com/forum/thread/835). It already concludes that the colouring is impossible for every 3 ≤ k ≤ 14, which includes k = 10 and k = 12. It uses the recursive Johnson bound for constant-weight codes A(n,4,w), a closely related argument, and reports a check for k ≤ 500 with only k = 16, 112, 256, 268 left. The argument below is an independent rediscovery through Steiner systems. We make no claim of priority, and the "nobody had answered" statements below are wrong.
+
+**In one line:** Erdős asked whether the k-element subsets of 2k objects can ever be coloured with k+1 colours in a special way. For k = 10 and k = 12 the answer is **no** (already known; see the correction above).
 
 ## How this came about
 
